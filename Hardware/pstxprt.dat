@@ -1,0 +1,190 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001May-19-2026 at 20:05:05 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='TIE_P25';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP196_0.22UF':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS104@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins104@discrete.\cap np.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins104@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP POL_CAP196_100UF/16V':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS2435@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins2435@discrete.\cap pol.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins2435@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_RES400_LED':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS1324@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins1324@discrete.\led.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins1324@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC1 'LM741_DIP8_3_LM741':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS36@OPAMP.LM741.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins36@opamp.\lm741.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins36@opamp.\lm741.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IC2 'NE555_1_DIP8_3_NE555':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS1102@TIE_P25.NE555_1.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins1102@tie_p25.\ne555_1.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins1102@tie_p25.\ne555_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_POWER':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS3045@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins3045@connector.\con2.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins3045@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_BUZZER':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS4258@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins4258@connector.\con2.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins4258@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_JUMPER2_PIEZO ELEMENT':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS3816@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins3816@connector.\con2.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins3816@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_12K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS129@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins129@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins129@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_12K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS319@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins319@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins319@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_4.7K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS448@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins448@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins448@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_1M':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS536@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins536@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins536@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_150K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS618@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins618@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins618@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS749@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins749@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins749@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES400_100':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS1299@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins1299@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins1299@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES400_100K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS1589@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins1589@discrete.\r.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins1589@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'BC548_TO92_BC548':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS662@TRANSISTOR.BC548.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins662@transistor.\bc548.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins662@transistor.\bc548.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR1 'POT_POT_10K':;
+
+SECTION_NUMBER 1
+ '@TIE_P25.SCHEMATIC1(SCH_1):INS77@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@tie_p25.schematic1(sch_1):ins77@discrete.\pot.normal\(chips)',
+ P_PATH='@tie_p25.schematic1(sch_1):page1_ins77@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
