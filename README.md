@@ -14,9 +14,9 @@ Cadence OrCAD Capture 17.2 – Schematic Design & Netlist Generation (`orWirelis
 Cadence OrCAD PCB Editor 17.2 – Component Placement, Manual Routing & Copper Pour Validation
 
 ## Repository Structure
-/Hardware - Source files: Schematic database (`.dsn`), Netlist files (`.dat`), and the final board layout (`.brd`).
-/Fabrication - Industry-standard Gerber files (`.art`), drill parameters, and manufacturing configuration files.
-/Docs - Full fabrication blueprints including Top/Bottom layers, Silkscreen, Assembly drawings, Assembly Bill of Materials (BOM), and the post-processed Wirelist in PDF format.
+*/Hardware - Source files: Schematic database (`.dsn`), Netlist files (`.dat`), and the final board layout (`.brd`).
+*/Fabrication - Industry-standard Gerber files (`.art`), drill parameters, and manufacturing configuration files.
+*/Docs - Full fabrication blueprints including Top/Bottom layers, Silkscreen, Assembly drawings, Assembly Bill of Materials (BOM), and the post-processed Wirelist in PDF format.
 
 ---
 Developed as an engineering project at the Faculty of Electronics, Telecommunications and Information Technology (ETTI), Polytehnica University of Bucharest.
